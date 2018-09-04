@@ -1,10 +1,10 @@
-/*package whatever //do not write package name here */
+/*Tower of Hanoi without recursion or stack */
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class GFG {
+class Priyanshu {
 
     public static String generateString(int x) {
         String s = "";
