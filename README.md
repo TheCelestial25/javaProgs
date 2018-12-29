@@ -1,1 +1,1 @@
-# javaProjects
+# Simple java program
